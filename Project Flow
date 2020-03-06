@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T07:38:56.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="5AhxpTUhsVGxqBVNJhGZ" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T07:44:33.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="cNDG5XbXrhcUySD-BPSu" version="12.8.1" type="github">
   <diagram id="U0DJEd8XZF2Sqw0mEUYv" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -89,6 +89,21 @@
         </mxCell>
         <mxCell id="_x6J73w7fVQlG6pCUewF-1" value="&lt;b&gt;Focus Selection&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_x6J73w7fVQlG6pCUewF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="339" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="_x6J73w7fVQlG6pCUewF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="_x6J73w7fVQlG6pCUewF-3" target="_x6J73w7fVQlG6pCUewF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_x6J73w7fVQlG6pCUewF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="339" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="_x6J73w7fVQlG6pCUewF-4" value="&lt;b&gt;Segment Selection&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="372.75" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_x6J73w7fVQlG6pCUewF-5" value="&lt;b&gt;Segmentation&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="699" y="376.5" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
