@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T15:37:13.252Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="B4W3FJbnEfNkmW1MAft4" version="12.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-03-21T15:38:41.294Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="fFEyGp7dPMDDj6BiaNs1" version="12.8.8" type="github" pages="3">
   <diagram id="oQDTAqtAIhEj4QiiSjHc" name="Media Scheduler">
     <mxGraphModel dx="1368" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="9HNaw-yvEdXfIzEsbNFl-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MW3DKMgOZkmfmMLmIgAf-1" value="Media Explorer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="184" y="186" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
