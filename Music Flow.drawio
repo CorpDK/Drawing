@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T14:28:07.259Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="BGufz12tEu0ZYQjcd-3O" version="12.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-21T14:33:59.262Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="jTb28t8f_xxFC2rao9Y4" version="12.8.8" type="github" pages="2">
   <diagram id="oQDTAqtAIhEj4QiiSjHc" name="Media Scheduler">
     <mxGraphModel dx="1368" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
@@ -67,17 +67,8 @@
         <mxCell id="E8qXKSW293ZqN4_Jq3c3-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="370" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="E8qXKSW293ZqN4_Jq3c3-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="114" y="460" width="60" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="E8qXKSW293ZqN4_Jq3c3-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="460" width="60" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="E8qXKSW293ZqN4_Jq3c3-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="460" width="60" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="E8qXKSW293ZqN4_Jq3c3-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="460" width="60" height="25" as="geometry" />
+          <mxGeometry x="-125" y="430" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
