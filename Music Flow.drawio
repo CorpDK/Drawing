@@ -1,21 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T15:50:50.201Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="43TBeEY7Exp9cuqW07m7" version="12.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-03-21T15:55:01.193Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ewzYrpzofBE6snOtZgmv" version="12.8.8" type="github" pages="5">
   <diagram id="MBpvYCzUrELfAa26MFhJ" name="Main View">
-    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="MjbEbyMEkYRb0OcDFulq-0" />
         <mxCell id="MjbEbyMEkYRb0OcDFulq-1" parent="MjbEbyMEkYRb0OcDFulq-0" />
         <mxCell id="1xtU4yXKUcWdlhTwbatP-0" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="MjbEbyMEkYRb0OcDFulq-1">
-          <mxGeometry x="109" width="250" height="490" as="geometry" />
+          <mxGeometry width="250" height="490" as="geometry" />
         </mxCell>
         <mxCell id="1xtU4yXKUcWdlhTwbatP-1" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MjbEbyMEkYRb0OcDFulq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359" y="19" as="sourcePoint" />
-            <mxPoint x="109" y="19" as="targetPoint" />
+            <mxPoint x="249.5" y="19" as="sourcePoint" />
+            <mxPoint y="19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1xtU4yXKUcWdlhTwbatP-20" value="Fingerprint Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="MjbEbyMEkYRb0OcDFulq-1">
-          <mxGeometry x="181" y="215" width="106" height="60" as="geometry" />
+        <mxCell id="1xtU4yXKUcWdlhTwbatP-20" value="Fingerprint Login&lt;br&gt;Screen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="MjbEbyMEkYRb0OcDFulq-1">
+          <mxGeometry x="72" y="260" width="106" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bomSSbGgJtHBVTJ_weIB-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="MjbEbyMEkYRb0OcDFulq-1">
+          <mxGeometry x="95" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-_FD2T3M8RTB5c9m31CJ" name="Welcome Flash">
+    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+      <root>
+        <mxCell id="LKsoqRT-YVXJo3TN9Mox-0" />
+        <mxCell id="LKsoqRT-YVXJo3TN9Mox-1" parent="LKsoqRT-YVXJo3TN9Mox-0" />
       </root>
     </mxGraphModel>
   </diagram>
