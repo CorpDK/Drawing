@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T15:25:11.384Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="A8_ETIG_yzTBJjEayxPL" version="12.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-21T15:37:13.252Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="B4W3FJbnEfNkmW1MAft4" version="12.8.8" type="github" pages="3">
   <diagram id="oQDTAqtAIhEj4QiiSjHc" name="Media Scheduler">
     <mxGraphModel dx="1368" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
@@ -188,6 +188,164 @@
         </mxCell>
         <mxCell id="7L2FRetNn_gpkB5mKpQI-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="ChLerRx45zN6RfFuRuqf-1">
           <mxGeometry x="-180" y="19" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nByx09e5XbC4chEgXpWH" name="Rooms List">
+    <mxGraphModel dx="1368" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+      <root>
+        <mxCell id="RFyA1kmQso1gP4Z-tDMw-0" />
+        <mxCell id="RFyA1kmQso1gP4Z-tDMw-1" parent="RFyA1kmQso1gP4Z-tDMw-0" />
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-0" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="109" width="250" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-1" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="19" as="sourcePoint" />
+            <mxPoint x="109" y="19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="109" y="19" width="250" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-402" y="400" width="122" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-230" y="410" width="122" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-280" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-220" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-160" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-100" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-280" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-220" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-160" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-100" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-375" y="330" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-20" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-440" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-375" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0hredVt-8eNUO6O5iJ-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-280" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-280" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-220" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-220" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-160" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-100" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-160" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="-100" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-53" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="139" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="204" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/instagram-ui/48/jee-74-128.png" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="269" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGzhJrzSbYnesKFfUKJh-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RFyA1kmQso1gP4Z-tDMw-1">
+          <mxGeometry x="171.5" y="80" width="125" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
