@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T14:49:08.050Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="GDPcDknrEz0MEsdJsZa_" version="12.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-21T14:53:21.018Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="OJHB-okEOOdQWZ-mGhSD" version="12.8.8" type="github" pages="2">
   <diagram id="oQDTAqtAIhEj4QiiSjHc" name="Media Scheduler">
     <mxGraphModel dx="1368" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
@@ -59,10 +59,10 @@
           <mxGeometry x="169" y="400" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8qXKSW293ZqN4_Jq3c3-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="239" y="400" width="60" height="60" as="geometry" />
+          <mxGeometry x="240" y="400" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8qXKSW293ZqN4_Jq3c3-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="304" y="420" width="40" height="40" as="geometry" />
+          <mxGeometry x="305.5" y="420" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E8qXKSW293ZqN4_Jq3c3-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="370" width="60" height="25" as="geometry" />
