@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T15:45:41.590Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ZR07Q27UGdUQ_vR8mA0i" version="12.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-03-21T15:46:23.147Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="jgodCgd-z1H1f07f5dUw" version="12.8.8" type="github" pages="3">
   <diagram id="oQDTAqtAIhEj4QiiSjHc" name="Media Scheduler">
-    <mxGraphModel dx="1368" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
