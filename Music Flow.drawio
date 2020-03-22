@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T09:09:44.463Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="O-Et5D4VBwnj9o6nX_NO" version="12.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-03-22T09:11:35.895Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="erP09-hDTq1mCmdN5uK4" version="12.8.8" type="github" pages="5">
   <diagram id="MBpvYCzUrELfAa26MFhJ" name="Main View">
     <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9uSdVBGlsZr3ISpUwsoX" name="Room Music View">
-    <mxGraphModel dx="1118" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="ChLerRx45zN6RfFuRuqf-0" />
         <mxCell id="ChLerRx45zN6RfFuRuqf-1" parent="ChLerRx45zN6RfFuRuqf-0" />
@@ -195,9 +195,6 @@
         </mxCell>
         <mxCell id="VoZgefNBqKTEZDL5AyEG-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_system_update_tv_48px-128.png;direction=north;" vertex="1" parent="ChLerRx45zN6RfFuRuqf-1">
           <mxGeometry x="130" y="110" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z_JWdpObZOwoG67QsyFH-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="ChLerRx45zN6RfFuRuqf-1">
-          <mxGeometry x="-125" y="110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z_JWdpObZOwoG67QsyFH-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=50;" vertex="1" parent="ChLerRx45zN6RfFuRuqf-1">
           <mxGeometry x="135" y="250" width="30" height="30" as="geometry" />
