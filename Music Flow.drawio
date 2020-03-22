@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T08:08:08.869Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="wNWv3pEmmMZN4lK5oF43" version="12.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-03-22T08:14:59.540Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="q-ZbkiRY2-pWyMuT38_a" version="12.8.8" type="github" pages="5">
   <diagram id="MBpvYCzUrELfAa26MFhJ" name="Main View">
-    <mxGraphModel dx="868" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="MjbEbyMEkYRb0OcDFulq-0" />
         <mxCell id="MjbEbyMEkYRb0OcDFulq-1" parent="MjbEbyMEkYRb0OcDFulq-0" />
@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-_FD2T3M8RTB5c9m31CJ" name="Welcome Flash">
-    <mxGraphModel dx="868" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="LKsoqRT-YVXJo3TN9Mox-0" />
         <mxCell id="LKsoqRT-YVXJo3TN9Mox-1" parent="LKsoqRT-YVXJo3TN9Mox-0" />
@@ -58,7 +58,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oQDTAqtAIhEj4QiiSjHc" name="Media Scheduler">
-    <mxGraphModel dx="868" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9uSdVBGlsZr3ISpUwsoX" name="Room Music View">
-    <mxGraphModel dx="868" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="ChLerRx45zN6RfFuRuqf-0" />
         <mxCell id="ChLerRx45zN6RfFuRuqf-1" parent="ChLerRx45zN6RfFuRuqf-0" />
@@ -193,11 +193,14 @@
         <mxCell id="rzDRIVulj-z90Kd9YCMx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="ChLerRx45zN6RfFuRuqf-1" vertex="1">
           <mxGeometry x="190" y="49" width="169" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VoZgefNBqKTEZDL5AyEG-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_system_update_tv_48px-128.png;direction=north;" vertex="1" parent="ChLerRx45zN6RfFuRuqf-1">
+          <mxGeometry x="130" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="nByx09e5XbC4chEgXpWH" name="Rooms List">
-    <mxGraphModel dx="868" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="490" math="0" shadow="0">
       <root>
         <mxCell id="RFyA1kmQso1gP4Z-tDMw-0" />
         <mxCell id="RFyA1kmQso1gP4Z-tDMw-1" parent="RFyA1kmQso1gP4Z-tDMw-0" />
