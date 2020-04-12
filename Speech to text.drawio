@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T09:24:59.841Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="NjFSv0OXZrCuSwaXX9V8" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-12T09:26:33.861Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="CN7YpxWQBRnjvmppPs_H" version="12.9.0" type="github">
   <diagram id="EU4n8WJgMkUJwz2_s7kj" name="Page-1">
     <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9pmb0NLwyCrX7m_Y8QRh-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="400" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="9pmb0NLwyCrX7m_Y8QRh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9pmb0NLwyCrX7m_Y8QRh-1" target="9pmb0NLwyCrX7m_Y8QRh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="9pmb0NLwyCrX7m_Y8QRh-4" value="Audio Stream" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="325" y="165" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9pmb0NLwyCrX7m_Y8QRh-7" value="Microphone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="400" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
