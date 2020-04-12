@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T09:31:47.164Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="w_CIYYUu6xTYcG13IEVM" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-12T09:35:21.655Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="gVGNTINHMdQY3smJZ5SG" version="12.9.0" type="github">
   <diagram id="EU4n8WJgMkUJwz2_s7kj" name="Page-1">
     <mxGraphModel dx="868" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,6 +49,12 @@
         </mxCell>
         <mxCell id="9pmb0NLwyCrX7m_Y8QRh-18" value="STT Block" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9pmb0NLwyCrX7m_Y8QRh-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-finance-vol-13-1/512/16-128.png;strokeWidth=2;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="9pmb0NLwyCrX7m_Y8QRh-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/iconslandplayer/PNG/128x128/PlainGreen/RecordPressed.png;strokeWidth=2;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
