@@ -1,62 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T08:24:54.082Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="RRf3PpRfoZKTkVB7G2Aa" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T08:29:20.857Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="adm_vTWOZ-SID1MYOlUQ" version="13.5.8" type="github">
   <diagram id="Tmrozo4o2RvMS9x2TP0T" name="Page-1">
-    <mxGraphModel dx="868" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BheTaLP4wtl0ytSgwrEF-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Common Media Library&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="160" height="200" as="geometry" />
+          <mxGeometry x="960" y="40" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BheTaLP4wtl0ytSgwrEF-4" value="Media Library Accessor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-4" value="Media Library Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BheTaLP4wtl0ytSgwrEF-5" value="Read" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BheTaLP4wtl0ytSgwrEF-6" value="Write" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BheTaLP4wtl0ytSgwrEF-7" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-5" target="BheTaLP4wtl0ytSgwrEF-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="190" as="targetPoint" />
+            <mxPoint x="720" y="240" as="sourcePoint" />
+            <mxPoint x="770" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BheTaLP4wtl0ytSgwrEF-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-4" target="BheTaLP4wtl0ytSgwrEF-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="190" as="targetPoint" />
+            <mxPoint x="720" y="240" as="sourcePoint" />
+            <mxPoint x="770" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BheTaLP4wtl0ytSgwrEF-9" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-1" target="BheTaLP4wtl0ytSgwrEF-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="190" as="targetPoint" />
+            <mxPoint x="720" y="240" as="sourcePoint" />
+            <mxPoint x="770" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BheTaLP4wtl0ytSgwrEF-11" value="" style="endArrow=classic;html=1;entryX=0.013;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-6" target="BheTaLP4wtl0ytSgwrEF-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="189" as="sourcePoint" />
-            <mxPoint x="620" y="300" as="targetPoint" />
+            <mxPoint x="880" y="189" as="sourcePoint" />
+            <mxPoint x="940" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BheTaLP4wtl0ytSgwrEF-12" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="60" height="80" as="geometry" />
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="60" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="BheTaLP4wtl0ytSgwrEF-13" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="60" height="80" as="geometry" />
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-12" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="BheTaLP4wtl0ytSgwrEF-17">
+          <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BheTaLP4wtl0ytSgwrEF-14" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="60" height="80" as="geometry" />
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-13" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="BheTaLP4wtl0ytSgwrEF-17">
+          <mxGeometry y="40" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BheTaLP4wtl0ytSgwrEF-15" value="&lt;br&gt;&lt;br&gt;Local &lt;br&gt;Device Libraries" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="60" height="80" as="geometry" />
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-14" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="BheTaLP4wtl0ytSgwrEF-17">
+          <mxGeometry y="80" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BheTaLP4wtl0ytSgwrEF-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-14" target="BheTaLP4wtl0ytSgwrEF-15">
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-15" value="&lt;br&gt;&lt;br&gt;Local &lt;br&gt;Device Libraries" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="BheTaLP4wtl0ytSgwrEF-17">
+          <mxGeometry y="130" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="BheTaLP4wtl0ytSgwrEF-17" source="BheTaLP4wtl0ytSgwrEF-14" target="BheTaLP4wtl0ytSgwrEF-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="300" as="sourcePoint" />
-            <mxPoint x="180" y="270" as="targetPoint" />
+            <mxPoint x="140" y="290" as="sourcePoint" />
+            <mxPoint x="140" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-22" value="Local Playback Storage Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
