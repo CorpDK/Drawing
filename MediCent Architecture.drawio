@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T08:29:20.857Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="adm_vTWOZ-SID1MYOlUQ" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T08:32:53.533Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="UfiY4c1GRTbCO-5i73nf" version="13.5.8" type="github">
   <diagram id="Tmrozo4o2RvMS9x2TP0T" name="Page-1">
-    <mxGraphModel dx="1320" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,30 @@
         </mxCell>
         <mxCell id="BheTaLP4wtl0ytSgwrEF-22" value="Local Playback Storage Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-23" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="270" as="sourcePoint" />
+            <mxPoint x="160" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-24" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-14" target="BheTaLP4wtl0ytSgwrEF-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="194" as="sourcePoint" />
+            <mxPoint x="162" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-27" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-13" target="BheTaLP4wtl0ytSgwrEF-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="180" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BheTaLP4wtl0ytSgwrEF-28" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BheTaLP4wtl0ytSgwrEF-12" target="BheTaLP4wtl0ytSgwrEF-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="130" as="sourcePoint" />
+            <mxPoint x="170" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
