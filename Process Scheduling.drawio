@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T12:17:57.982Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="gf7Hbd_jjCzUL0AoNTjv" version="13.5.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-25T12:20:18.093Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="YFG3LqhsVf8UrISjt17L" version="13.5.8" type="github" pages="7">
   <diagram id="SHlIxUWun1tNeiMXr0mh" name="Temp OBJ">
     <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -181,6 +181,14 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="sZ1N_6nljnuOYkKfAf7h" name="Page-7">
+    <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="zAVzM1Y5PzoIMySu90U9-0" />
+        <mxCell id="zAVzM1Y5PzoIMySu90U9-1" parent="zAVzM1Y5PzoIMySu90U9-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="a4LECfSNi3ztoQqqU9N0" name="FCFS">
     <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -189,7 +197,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ONaGcxcDHxKWhnWIQ2ye" name="SJFS">
+  <diagram id="ONaGcxcDHxKWhnWIQ2ye" name="SJF">
     <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="1d-6ZDZ-7GPv0bI-bjg5-0" />
@@ -197,7 +205,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MIjfFkTgclKjY3ADUEmI" name="SRTFS">
+  <diagram id="MIjfFkTgclKjY3ADUEmI" name="SRTF">
     <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="DDNQCfGdcolXv3RYDffz-0" />
@@ -205,7 +213,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ZDmxlX9q_1cXYkZDUeu4" name="PS">
+  <diagram id="ZDmxlX9q_1cXYkZDUeu4" name="P">
     <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Q2YZX1B1Ah4XS6rPsbND-0" />
@@ -213,7 +221,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="SOlZ13wG1nHFLA2_TpA6" name="RRS">
+  <diagram id="SOlZ13wG1nHFLA2_TpA6" name="RR">
     <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="cz1wYry7-GHUAsOfXXu8-0" />
