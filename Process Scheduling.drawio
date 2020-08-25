@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T12:33:37.839Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="gdw2lK6kN_ipdoEAYbf2" version="13.5.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-08-25T12:34:28.853Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="43vwbdDFpF2n5Hm2J-Nq" version="13.5.8" type="github" pages="7">
   <diagram id="SHlIxUWun1tNeiMXr0mh" name="Temp OBJ">
     <mxGraphModel dx="1205" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -215,6 +215,18 @@
         </mxCell>
         <mxCell id="vGkCouUy6d_3_w7IrnCB-10" value="[ Different for Each Process ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zAVzM1Y5PzoIMySu90U9-1">
           <mxGeometry x="440" y="169" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vGkCouUy6d_3_w7IrnCB-11" value="Waiting Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zAVzM1Y5PzoIMySu90U9-1">
+          <mxGeometry x="40" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vGkCouUy6d_3_w7IrnCB-12" value="=" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zAVzM1Y5PzoIMySu90U9-1">
+          <mxGeometry x="160" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vGkCouUy6d_3_w7IrnCB-13" value="Time Waited In Queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zAVzM1Y5PzoIMySu90U9-1">
+          <mxGeometry x="200" y="230" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vGkCouUy6d_3_w7IrnCB-14" value="[ Different for Each Process ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zAVzM1Y5PzoIMySu90U9-1">
+          <mxGeometry x="440" y="230" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
